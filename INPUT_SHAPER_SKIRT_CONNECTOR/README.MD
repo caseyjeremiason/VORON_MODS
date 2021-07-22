@@ -3,8 +3,14 @@
 --------------------------------------------------------------------------------
 INPUT SHAPER SKIRT CONNECTOR
 --------------------------------------------------------------------------------
-<img src="IMAGES/RENDER_1.png" width="500" title="Rendering of Input Shaper Skirt Connector">
-<img src="IMAGES/RENDER_2.png" width="500" title="Rendering of Input Shaper Skirt Connector">
+<div>
+	<p align="left">
+	  <img src="IMAGES/RENDER_1.png" width="500" title="Rendering of Input Shaper Skirt Connector">
+	</p>
+	<p align="right">
+	  <img src="IMAGES/RENDER_2.png" width="500" title="Rendering of Input Shaper Skirt Connector">
+	</p>
+</div>
 
 --------------------------------------------------------------------------------
 SLICER SETTINGS
