@@ -3,9 +3,9 @@
 --------------------------------------------------------------------------------
 INPUT SHAPER SKIRT CONNECTOR
 --------------------------------------------------------------------------------
-<p clear="both">
-	<img align="left" src="IMAGES/RENDER_1.png" width="500" title="Rendering of Input Shaper Skirt Connector">
-	<img align="right" src="IMAGES/RENDER_2.png" width="500" title="Rendering of Input Shaper Skirt Connector">
+<p>
+	<img src="IMAGES/RENDER_1.png" width="500" title="Rendering of Input Shaper Skirt Connector">
+	<img src="IMAGES/RENDER_2.png" width="500" title="Rendering of Input Shaper Skirt Connector">
 </p>
 
 --------------------------------------------------------------------------------
