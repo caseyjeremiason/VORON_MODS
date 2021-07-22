@@ -4,12 +4,8 @@
 INPUT SHAPER SKIRT CONNECTOR
 --------------------------------------------------------------------------------
 <div>
-	<p align="left">
-	  <img src="IMAGES/RENDER_1.png" width="500" title="Rendering of Input Shaper Skirt Connector">
-	</p>
-	<p align="right">
-	  <img src="IMAGES/RENDER_2.png" width="500" title="Rendering of Input Shaper Skirt Connector">
-	</p>
+	<img align="left" src="IMAGES/RENDER_1.png" width="500" title="Rendering of Input Shaper Skirt Connector">
+	<img align="right" src="IMAGES/RENDER_2.png" width="500" title="Rendering of Input Shaper Skirt Connector">
 </div>
 
 --------------------------------------------------------------------------------
