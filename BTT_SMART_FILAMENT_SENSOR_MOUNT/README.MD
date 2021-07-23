@@ -3,14 +3,17 @@
 --------------------------------------------------------------------------------
 BTT SMART FILAMENT SENSOR VORON PANEL MOUNT
 --------------------------------------------------------------------------------
+3mm BTT Smart Filament Sensor Mount
 <p>
 	<img src="IMAGES/BTT_SMART_FILAMENT_SENSOR_MOUNT_3mm_1.png" width="500" title="Rendering of 3mm BTT Smart Filament Sensor Mount">
 	<img src="IMAGES/BTT_SMART_FILAMENT_SENSOR_MOUNT_3mm_2.png" width="500" title="Rendering of 3mm BTT Smart Filament Sensor Mount">
 </p>
+6mm BTT Smart Filament Sensor Mount
 <p>
 	<img src="IMAGES/BTT_SMART_FILAMENT_SENSOR_MOUNT_6mm_1.png" width="500" title="Rendering of 6mm BTT Smart Filament Sensor Mount">
 	<img src="IMAGES/BTT_SMART_FILAMENT_SENSOR_MOUNT_6mm_2.png" width="500" title="Rendering of 6mm BTT Smart Filament Sensor Mount">
 </p>
+
 --------------------------------------------------------------------------------
 SLICER SETTINGS
 --------------------------------------------------------------------------------
