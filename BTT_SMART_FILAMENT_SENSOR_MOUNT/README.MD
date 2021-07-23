@@ -28,7 +28,7 @@ You are responsable for your own actions.
 --------------------------------------------------------------------------------
 CREDIT WHERE CREDIT IS DUE
 --------------------------------------------------------------------------------
-I am unsure of the original designer for this part.  If you know, let me know.
+I am unsure of the original designer of this part.  If you know, let me know.
 
 --------------------------------------------------------------------------------
 BILL OF MATERIAL
